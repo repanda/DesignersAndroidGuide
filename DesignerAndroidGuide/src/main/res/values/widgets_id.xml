@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="TEXT_VIEW" type="integer">0</item>
+    <item name="EDITTEXT" type="integer">1</item>
+    <item name="SPINNER" type="integer">2</item>
+    <item name="TIME_PICKER" type="integer">3</item>
+    <item name="DATE_PICKER" type="integer">4</item>
+    <item name="BUTTON" type="integer">5</item>
+    <item name="CHECKBOX" type="integer">6</item>
+    <item name="RADIO_BUTTON" type="integer">7</item>
+    <item name="SWITCH" type="integer">8</item>
+    <item name="IMAGEVIEW" type="integer">9</item>
+    <item name="PROGRESS_BAR" type="integer">10</item>
+    <item name="SEEK_BAR" type="integer">11</item>
+    <item name="NUMBER" type="integer">12</item>
+    <item name="PASSWORD" type="integer">13</item>
+</resources>

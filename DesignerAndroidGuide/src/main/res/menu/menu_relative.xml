@@ -1,0 +1,97 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Main2Activity">
+
+    <item
+        android:id="@+id/top"
+        android:title="@string/top"/>
+
+    <item
+        android:id="@+id/bottom"
+        android:title="@string/right"/>
+    <item
+    android:id="@+id/right"
+    android:title="@string/left"/>
+    <item
+        android:id="@+id/left"
+        android:title="@string/bottom"/>
+<!--Relative toelement one-->
+    <item
+        android:id="@+id/one"
+        android:title="@string/one">
+    <menu>
+        <item
+            android:id="@+id/above_one"
+            android:title="@string/above"/>
+        <item
+            android:id="@+id/bellow_one"
+            android:title="@string/bellow"/>
+        <item
+            android:id="@+id/to_right_one"
+            android:title="@string/to_right"/>
+        <item
+            android:id="@+id/to_left_one"
+            android:title="@string/to_left"/>
+    </menu>
+</item>
+    <!--Relative toelement two-->
+    <item
+        android:id="@+id/two"
+        android:title="@string/two">
+    <menu>
+        <item
+            android:id="@+id/above_two"
+            android:title="@string/above"/>
+
+        <item
+            android:id="@+id/bellow_two"
+            android:title="@string/bellow"/>
+        <item
+            android:id="@+id/to_right_two"
+            android:title="@string/to_right"/>
+        <item
+            android:id="@+id/to_left_two"
+            android:title="@string/to_left"/>
+    </menu>
+</item>
+    <!--Relative toelement three-->
+    <item
+        android:id="@+id/three"
+        android:title="@string/three">
+    <menu>
+        <item
+            android:id="@+id/above_three"
+            android:title="@string/above"/>
+        <item
+            android:id="@+id/bellow_three"
+            android:title="@string/bellow"/>
+        <item
+            android:id="@+id/to_right_three"
+            android:title="@string/to_right"/>
+        <item
+            android:id="@+id/to_left_three"
+            android:title="@string/to_left"/>
+    </menu>
+</item>
+    <!--Relative toelement four-->
+    <item
+        android:id="@+id/four"
+        android:title="@string/four">
+    <menu>
+
+        <item
+            android:id="@+id/above_four"
+            android:title="@string/above"/>
+        <item
+            android:id="@+id/bellow_four"
+            android:title="@string/bellow"/>
+        <item
+            android:id="@+id/to_right_four"
+            android:title="@string/to_right"/>
+        <item
+            android:id="@+id/to_left_four"
+            android:title="@string/to_left"/>
+    </menu>
+</item>
+
+</menu>

@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Designers Android Guide</string>
+    <string name="positionlabel">"Position : "</string>
+    <string name="select_layout">select layout type </string>
+    <string name="linear_horisontal">linear horisontal</string>
+    <string name="linear_vertical">linear vertical</string>
+    <string name="relative">relative</string>
+
+
+    <string name="right">right</string>
+    <string name="left">left</string>
+    <string name="top">top</string>
+    <string name="bottom">bottom</string>
+
+    <string name="one">Relative to 1</string>
+    <string name="two">Relative to 2</string>
+    <string name="three">Relative to 3</string>
+    <string name="four">Relative to 4</string>
+
+    <string name="above">above</string>
+    <string name="bellow">below</string>
+    <string name="to_right">to the right</string>
+    <string name="to_left">to the left</string>
+
+    <string name="TEXT_VIEW">TEXT VIEW</string>
+    <string name="EDIT_TEXT">EDIT TEXT</string>
+    <string name="SPINNER">SPINNER</string>
+    <string name="TIME_PICKER">TIME PICKER</string>
+    <string name="DATE_PICKER">DATE PICKER</string>
+    <string name="BUTTON">BUTTON</string>
+    <string name="CHECKBOX">CHECKBOX</string>
+    <string name="RADIO_BUTTON">RADIO BUTTON</string>
+    <string name="SWITCH">SWITCH</string>
+    <string name="IMAGEVIEW">IMAGEVIEW</string>
+    <string name="PROGRESS_BAR" >PROGRESS BAR</string>
+    <string name="SEEK_BAR">SEEK BAR</string>
+    <string name="NUMBER">NUMBER</string>
+    <string name="PASSWORD">PASSWORD</string>
+
+    <string name="TEXT_VIEW_D">Displays text to the user.</string>
+    <string name="EDIT_TEXT_D">EditText is a text that is editable.</string>
+    <string name="SPINNER_D">A list from wich user can pick that displays one element at a time. </string>
+    <string name="TIME_PICKER_D">A widget for selecting the time of day, in either 24-hour or AM/PM mode.</string>
+    <string name="DATE_PICKER_D"> Provides a widget for selecting a date.</string>
+    <string name="BUTTON_D">A button consists of text or an icon (or both) that has a result when user touches it.</string>
+    <string name="CHECKBOX_D">A checkbox is a specific type of two-states button that can be either checked or unchecked.</string>
+    <string name="RADIO_BUTTON_D">Radio buttons allow the user to select one option from a set.</string>
+    <string name="SWITCH_D">A Switch is a two-state toggle switch widget that can select between two options.</string>
+    <string name="IMAGEVIEW_D">Displays an image.</string>
+    <string name="PROGRESS_BAR_D" >Indicates progress (of time until the ui is ready for example).</string>
+    <string name="SEEK_BAR_D">You can type in and search key words (in a list forexample).</string>
+    <string name="NUMBER_D">An edit text that allowonly number type input and wich actions the number keyboard.</string>
+    <string name="PASSWORD_D">An edit text that displays password as dots instead of letters.</string>
+
+
+</resources>

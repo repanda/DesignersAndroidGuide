@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv1" type="id">12</item>
+    <item name="tv2" type="id">13</item>
+    <item name="i1" type="id">1</item>
+    <item name="i2" type="id">2</item>
+    <item name="i3" type="id">3</item>
+    <item name="i4" type="id">4</item>
+    <item name="i5" type="id">5</item>
+    <item name="i6" type="id">6</item>
+
+</resources>
