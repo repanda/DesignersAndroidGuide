@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
 
         //set event on long click
         list.setChoiceMode(ListView.CHOICE_MODE_MULTIPLE_MODAL);
+        list.setTextFilterEnabled(true);
 
         list.setMultiChoiceModeListener(new AbsListView.MultiChoiceModeListener() {
 
@@ -83,8 +84,7 @@ public class MainActivity extends AppCompatActivity {
                 ArrayList<Integer> widgets_selected;
                 switch (item.getItemId()) {
                     case R.id.linear_horisontal:
-                        //Aici apare  problema... trebuie schimbat modul de definire in AdapterView,
-                        // la scroll se modifica id-ul elementului in functie de cate elemente sunt pe ecran
+
                         selected = listviewadapter
                                 .getSelectedIds();
 

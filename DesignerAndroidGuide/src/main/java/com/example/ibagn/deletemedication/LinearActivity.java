@@ -43,10 +43,12 @@ public class LinearActivity extends AppCompatActivity {
         if (layot_type == 1) {
             linearLayout.setOrientation(LinearLayout.HORIZONTAL);
             hv.addView(linearLayout);
+            getSupportActionBar().setSubtitle("Linear Layout - Horisontal");
         }else{
             if (layot_type == 0) {
                 linearLayout.setOrientation(LinearLayout.VERTICAL);
                 sv.addView(linearLayout);
+                getSupportActionBar().setSubtitle("Linear Layout - Vertical");
             }
         }
         ArrayList<Integer> list = (ArrayList<Integer>) intent.getIntegerArrayListExtra("widgets_selected");
